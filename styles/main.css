@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
 
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /* width */
@@ -64,7 +64,8 @@ a {
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #000000;
-  background-color: #1a1a1a;
+  background-color: #6c63ff;
+  opacity: 8;
   text-decoration: none;
   padding: 16px 5%;
   z-index: 999;
@@ -124,7 +125,7 @@ a {
 
 #create__room__btn {
   display: block;
-  background-color: #845695;
+  background-color: #6c63ff;
   padding: 8px 24px;
   font-size: 14px;
   font-weight: 500;
